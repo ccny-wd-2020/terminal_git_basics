@@ -2,10 +2,14 @@
 
 ---
 
-# Basic Terminal Commands
+# Beginner Terminal
+
 - [Mac Command Line Start](https://www.theodinproject.com/courses/web-development-101/lessons/command-line-basics-web-development-101)
 - [Windows Command Line Start](https://www.atlassian.com/git/tutorials/git-bash)
 
+---
+
+# Basic Terminal Commands
 
 - Change Directory
 ```bash
@@ -38,6 +42,8 @@ touch <file name>
 - [Steps to setup git on windows](https://phoenixnap.com/kb/how-to-install-git-windows)
 
 - [Steps to setup git on a mac](https://www.atlassian.com/git/tutorials/install-git)
+
+---
 
 # Basic Git Commands
 - git is a command line tool used to sync your local projects up with a code repository (i.e. github)
