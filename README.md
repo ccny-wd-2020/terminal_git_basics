@@ -1,1 +1,16 @@
-# terminal_git_basics
+# Terminal & Git Basics
+
+---
+
+# Basic Terminal Commands
+
+- Change Directory
+```bash
+cd
+```
+- Present Working Directory
+```bash
+pwd
+```
+
+---
