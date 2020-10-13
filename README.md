@@ -3,6 +3,9 @@
 ---
 
 # Basic Terminal Commands
+- [Mac Command Line Start](https://www.theodinproject.com/courses/web-development-101/lessons/command-line-basics-web-development-101)
+- [Windows Command Line Start](https://www.atlassian.com/git/tutorials/git-bash)
+
 
 - Change Directory
 ```bash
