@@ -73,3 +73,10 @@ git push origin main
 git checkout -b main
 ```
 ---
+# GIT IGNORE
+- add a .gitignore file to the main directory in your repository in order to restrict certain files from being pushed up to git.
+- the .gitignore file below is restricting .DS_Store files from my local maching to being pushed to the github repository. It's as simple as it looks below.
+```
+.DS_Store
+```
+---
