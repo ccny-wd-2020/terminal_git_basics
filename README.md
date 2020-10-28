@@ -34,7 +34,30 @@ mkdir <folder name>
 ```bash
 touch <file name>
 ```
-
+- Show History of Commands
+```bash
+history
+```
+- Clear terminal
+```bash
+clear
+```
+- zip a directory
+```bash
+zip -r <file_name>.zip <directory>
+```
+for example
+```bash
+zip -r my_project.zip my_project/*
+```
+- edit file contents ("vi" gets you into editing mode. press "i" to start editing. Press: Escape -> ":wq" to get out of editing mode)
+```bash
+vi <file>
+```
+for example
+```bash
+vi whatever.txt
+```
 ---
 
 # Git Setup
