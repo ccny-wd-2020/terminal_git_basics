@@ -58,6 +58,22 @@ for example
 ```bash
 vi whatever.txt
 ```
+- copy files from one directory to another
+```bash
+cp <from> <to>
+```
+for example (copying the "whatever.txt" file to the "my_project" directory)
+```bash
+cp whatever.txt my_project
+```
+- move files from one directory to another
+```bash
+mv <from> <to>
+```
+for example (moving the "whatever.txt" file to the "my_project" directory)
+```bash
+mv whatever.txt my_project
+```
 ---
 
 # Git Setup
